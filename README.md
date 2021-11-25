@@ -1,5 +1,5 @@
 # microservice---usuarios
-Este projeto é um microservice simples desenvolvido com a tecnologia Spring Boot utilizando Maven e API Rest, onde é possível cadastrar os usuários que serão os donos das carteiras a serem utilizadas pelos outros serviços.
+Este projeto é um microservice desenvolvido com a tecnologia Spring Boot utilizando Maven e API Rest, onde é possível cadastrar os usuários que serão os donos das carteiras a serem utilizadas pelos outros serviços.
 
 Obs: Este projeto só faz sentido executando juntamente com os outros 4 serviços
    - [Carteira](https://github.com/GustavoCSchmitz/microservice---carteira)
